@@ -13,3 +13,4 @@
 * [Domain Modeling Made Functional - Scott Wlaschin](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
 * [Event Storming - Alberto Brandolini](https://leanpub.com/introducing_eventstorming)
 * [Versioning in an Event Sourced System - Gregory Young ](https://leanpub.com/esversioning)
+* [Hands-On Domain-Driven Design with .NET Core - Alexey Zimarev](https://www.amazon.com/Hands-Domain-Driven-Design-NET-ebook/dp/B07C5WSR9B)
